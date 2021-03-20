@@ -1,0 +1,29 @@
+.search-block {
+    margin-top: 10%;
+    margin-bottom: 30px;
+}
+.search-bar {
+    display: block;
+    width: 582px;
+    height: 35px;
+    margin: auto;
+    border: 1px solid #dfe1e5;
+    border-radius: 30px;
+}
+.search-bar:hover {
+    box-shadow: 0 0 10px #ccc;
+}
+.logo {
+    display: block;
+    margin: auto;
+    padding: 30px;
+}
+
+.search-buttons {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+/* .search-buttons button {
+    display: block;
+} */
