@@ -35,3 +35,44 @@
     margin-right: 10px;
     font-family: Arial, Helvetica, sans-serif;
 }
+.header-link {
+    color: #000;
+    opacity: 0.75;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    padding-left: 13px;
+}
+.header-link:hover {
+    text-decoration: underline;
+}
+.profile-picture{
+    margin-left: 13px;
+    border-radius: 50%;
+}
+.profile-picture:hover {
+    box-shadow: 0px 0px 0px 5px rgba(60,64,67,0.08);
+}
+.google-apps-icon {
+    height: 28px;
+    width: 28px;
+    border-radius: 50%;
+    margin-left: 13px;
+}
+.google-apps-icon:hover {
+    box-shadow: 0px 0px 0px 5px rgba(60,64,67,0.08);
+}
+.header-left-side {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 20px;
+    margin-left: 12px;
+}
+.header-right-side {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-top: 20px;
+    margin-right: 25px;
+}
